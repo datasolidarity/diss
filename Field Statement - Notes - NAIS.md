@@ -2,22 +2,21 @@
 
 In this document, I will begin organizing notes for a field statement as directed by the GGG handbook.
 
-This field statement will be a review of scholarly literature in the field of Native American and Indigenous Studies. It must be related to my topic of interest, but broader. I will include a brief survey of the important topics and areas of research, but I will also focus more deeply on my topics of interest. In detail, I will not only examine Indigenous Data Sovereignty as a subfield, but also examine the topic of sovereignty; land and space; and methodologies (with an emphasis on cartography, ethnography, activist, and participatory methods) within the field of NAIS. I will write a history of the debates around sovereignty in NAIS, as well as outline research directions of contemporary interest.
+This field statement will be a review of scholarly literature in the field of Native American and Indigenous Studies. It must be related to my topic of interest, but broader. My advisor indicates that the field statement should be broader than a literature review of a specific topic, like sovereignty. Rather, it should explore all the major debates in superficial detail.
 
-Other topics discussed here could include:
+Topics may include:
 
-*   Autonomy.
-*   Identity.
-*   Social movements
+See Teves et al 2015.
 
+The remainder of this document requires revision.
 
 # Approach to Literature Review
 
 As I search through the literature, I will pay special attention to:
 
-1.  The history of the field of NAIS (its origins);
-2.  The important topics, debates, and areas of research (as a survey);
-3.  Specific terms including: sovereignty, autonomy, land, space, data, cartography;
+1.  The history of the field of NAIS (its origins)
+2.  The important topics, debates, and areas of research (as a survey)
+3.  Specific terms (see above, "Topics...")
 4.  methodologies, particularly with reference to fieldwork.
 
 I will begin with reference texts, anthologies and review articles published by recognized scholars in the field of NAIS, including from disciplines labeled: (Critical) Indigenous Studies, Native American Studies, American Indian Studies, and Native Studies. This list of articles will form what I call the "review pool".
@@ -32,15 +31,13 @@ While I recognize a field statement is supposed to approach a field as a largely
 
 I will select a few authors in discussion, and move through topics thusly. As I am writing a history of a concept (or discourse), I will focus more on themes than individuals despite the aforementioned approach. Furthermore, I will attempt a crude periodization, albeit likely an amalgamation of periodizations and groupings from other authors.
 
-# Annotated Bibliographies
+# Bibliographies
 
 ## Review Pool
 
 In no particular order.
 
 1.  Teves, Stephanie N., Andrea Smith, and Michelle H. Raheja, eds. 2015. Native Studies Keywords. Critical Issues in Indigenous Studies. Tucson: The University of Arizona Press.
-
-Sample Text.
 
 2.  Lobo, Susan, Steve Talbot, and Traci L Morris. 2016. Native American Voices: A Reader. London : New York: Routledge.
 
