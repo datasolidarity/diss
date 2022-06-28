@@ -1,4 +1,8 @@
-# The Long Twentieth Century
+# General Notes
+
+Book: The Long Twentieth Century
+
+# Chapter Notes
 
 ## Introduction
 
